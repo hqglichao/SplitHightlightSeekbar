@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OnlyHeSeekBar">
+        <attr name="seekbarGrayBg" format="integer"/>
+        <attr name="seekbarGreenBg" format="integer"/>
+        <attr name="seekbarNormal" format="integer"/>
+    </declare-styleable>
+</resources>
